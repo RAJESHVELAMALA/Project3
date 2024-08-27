@@ -25,6 +25,11 @@ nutriAI is an innovative AI-driven platform providing personalized nutrition gui
    https://huggingface.co/datasets/Kaludi/data-food-category-classification
  https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
 
+## Getting Started
+
+- Run the application: nutriAIMain.ipynb
+- Embark on a journey to revolutionize nutrition!
+
 
 Encouraging employees to adopt and effectively use the new automation tools may require training and a focus on creating a user-friendly experience.
 This approach can lead to a more efficient, comfortable, and sustainable office environment, driving productivity while reducing operational costs.
